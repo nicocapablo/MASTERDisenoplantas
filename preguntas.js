@@ -1140,6 +1140,7 @@ const bancoDePreguntas = [
     "id": 88,
     "tipo": "teoria",
     "texto": "Quina dada és fonamental per calcular la Potència Contractada?",
+   "opciones": [
     "a) La potència de pico",
     "b) La potència instal·lada multiplicada pel coeficient de simultaneïtat (Potència Requerida)",
     "c) La suma de les factures de l'any passat",
