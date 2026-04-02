@@ -5836,5 +5836,5 @@ const bancoDePreguntas = [
     "correcta": "a",
     "feedback": "Limita la dimensió de l'edifici cap al fons per evitar que es col·lapse o s'ocupi l'interior d'illa en zones compactes."
   }
-]
+];
 
