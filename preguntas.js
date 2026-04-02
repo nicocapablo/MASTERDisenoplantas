@@ -323,9 +323,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "d",
     "feedback": "El Diagrama de Maquinaria es el que aplica la maquinaria requerida a cada bloque o proceso definido previamente[cite: 12, 79]."
-  }
-]
- [
+  },
   {
     "id": 26,
     "tipo": "teoria",
@@ -5837,4 +5835,3 @@ const bancoDePreguntas = [
     "feedback": "Limita la dimensió de l'edifici cap al fons per evitar que es col·lapse o s'ocupi l'interior d'illa en zones compactes."
   }
 ];
-
