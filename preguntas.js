@@ -650,9 +650,7 @@ const bancoDePreguntas = [
     ],
     "correcta": "b",
     "feedback": "S'ha d'anar de lo general a lo particular.<br>Primer definim l'activitat (caixa negra), després els passos (blocs), després les quantitats (fluxos) i finalment la tecnologia específica (màquines)."
-  }
-] 
-[
+  },
   {
     "id": 51,
     "tipo": "teoria",
